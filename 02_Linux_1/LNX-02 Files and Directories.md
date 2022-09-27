@@ -29,7 +29,11 @@ We needed to create a file in this directory. I couldnt create the file here eit
 
 
 ### Results
-![screenshot](../00_includes/LNX/LNX02-01)\
-![screenshot](../00_includes/LNX/LNX02-02)\
-![screenshot](../00_includes/LNX/LNX02-03)\
-![screenshot](../00_includes/LNX/LNX02-04)
+Here, we show the contents of home directory\
+![screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX-01.png)
+
+![screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX02-02.png)
+
+![screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX02-03.png)
+
+![screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX02-04.png)
