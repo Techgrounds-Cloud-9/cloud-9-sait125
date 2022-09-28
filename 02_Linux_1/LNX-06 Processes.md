@@ -35,7 +35,7 @@ After it has finished installing telnet, we can confirm whether its running with
 This also includes information about telnet's PID and how much memory telnetd is using (6953 and 836.0k in this case respectively).
 
 
-![vraag1](..\00_includes\LNX\LNX-06-01.png)
+![vraag1](../00_includes/LNX/LNX-06-01.png)
 
 With the "top -p 6953" command we can monitor the process ID.
 

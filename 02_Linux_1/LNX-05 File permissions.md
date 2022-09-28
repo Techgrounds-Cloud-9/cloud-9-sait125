@@ -35,8 +35,8 @@ none
 Here we create our text file and use the ls command to confirm the file is created.
 ![vraag1](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX-05-01.png?raw=true)
 
-I made a list to show the file's  permissions. 
-![vraag2](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX-05-02.png?raw=true)
+I made a list to show the file's  permissions.
+ ![vraag2](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX-05-02.png?raw=true)
 
 The file was not executable, so we changed by adding the execute permission (x).
 ![vraag3](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX-05-03.png?raw=true)
