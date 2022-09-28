@@ -38,6 +38,9 @@ This also includes information about telnet's PID and how much memory telnetd is
 ![vraag1](..\00_includes\LNX\LNX-06-01.png)
 
 With the "top -p 6953" command we can monitor the process ID.
+
 ![vraag2](..\00_includes\LNX\LNX-06-02.png)
-We use 'sudo kill 6953' (6953 is the PID) to stop the telnetd process. We use "top -p 6953" again to confirm whether the process has actually stopped.  
+
+We use 'sudo kill 6953' (6953 is the PID) to stop the telnetd process. We use "top -p 6953" again to confirm whether the process has actually stopped.
+  
 ![vraag3](..\00_includes\LNX\LNX-06-03.png)
