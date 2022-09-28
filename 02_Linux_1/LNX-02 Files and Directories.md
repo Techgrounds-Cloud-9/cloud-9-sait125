@@ -29,7 +29,7 @@ We needed to create a file in this directory. I couldnt create the file here eit
 
 
 ### Results
-Here, we show the contents of home directory\
+Here, we find out who we are and show the contents of home directory\
 ![screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX-01.png)
 
 ![screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX02-02.png)
