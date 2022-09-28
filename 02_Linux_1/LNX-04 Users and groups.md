@@ -27,10 +27,10 @@ https://linuxhint.com/getent-command/
 ### Overcome challenges
 I realised that using cat/etc/passwd would show me more than needed. I love to keep my terminal clean so I looked up if it was possible to only show the newly created user's data from the same file. While doing this I learned about the getent command.
 
-![screenshot_challenge]https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX04-extra1.png?raw=true
+![screenshot_challenge](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX04-extra1.png?raw=true)
 
 ### Results
 
-![screenshot_firstpart]https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX-04-01.png?raw=true
+![screenshot_firstpart](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX-04-01.png?raw=true)
 
-![screenshot_secondpart]https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX-04-02.png?raw=true
+![screenshot_secondpart](https://github.com/Techgrounds-Cloud-9/cloud-9-sait125/blob/main/00_includes/LNX/LNX-04-02.png?raw=true)
