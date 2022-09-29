@@ -5,7 +5,9 @@ A daemon runs in the background and is non-interactive. A Service responds to re
 
 ## Key terminology
 **kill**: a command used to terminate a process.
+
 **top**: a command used to show active processes and other system information. 
+
 **apt-install**: command line used for installing packages.
 
 ## Exercise
