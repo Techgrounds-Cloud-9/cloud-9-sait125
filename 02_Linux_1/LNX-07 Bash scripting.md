@@ -38,25 +38,25 @@ I realised some of my scripts weren't working because I did not have the permiss
 #### Excerise 1
 Here we create our scripts directory.
 
-![vraag1](../00_includes/LNX-07-01.png)
+![vraag1](../00_includes/LNX/LNX-07-01.png)
 
 We add the scripts directory to the PATH variable with this command, make sure there is no spaces before and after the quotation mark.
 
-![vraag1.2](../00_includes/LNX-07-02.png)
+![vraag1.2](../00_includes/LNX/LNX-07-02.png)
 
 This is our script that appends a line of text to a text file whenever it is executed.
 
-![vraag1.3](../00_includes/LNX-07-03.png)
+![vraag1.3](../00_includes/LNX/LNX-07-03.png)
 
 When executed it should result in:
 
-![vraag1.3](../00_includes/LNX-07-04.png)
+![vraag1.3](../00_includes/LNX/LNX-07-04.png)
 
 Here we create a script that installs the httpd (apache2) package, activates httpd, and enables httpd. The script also prints the status of httpd in the terminal.
 
-![vraag1.4](../00_includes/LNX-07-05.png)
+![vraag1.4](../00_includes/LNX/LNX-07-05.png)
 
 Running the script will give you:
 
-![vraag1.4](../00_includes/LNX-07-06.png)
+![vraag1.4](../00_includes/LNX/LNX-07-06.png)
 
