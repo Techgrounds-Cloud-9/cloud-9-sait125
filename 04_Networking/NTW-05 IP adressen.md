@@ -2,11 +2,18 @@
 nog adden niet vergeten
 
 ## Key terminology
+**IP adress**: 
+
 **IPV4**:
+
 **IPV6**:
+
 **Public IP**:
+
 **Private IP**: 
+
 **Static IP**:
+
 **Dyanmic IP**:
 
 ## Exercise
