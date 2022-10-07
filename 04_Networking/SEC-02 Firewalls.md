@@ -22,6 +22,8 @@ https://linuxize.com/post/how-to-setup-a-firewall-with-ufw-on-ubuntu-20-04/
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-22-04
 
+https://www.cyberciti.biz/faq/how-to-configure-firewall-with-ufw-on-ubuntu-20-04-lts/
+
 ### Overcome challenges
 I kept typing 'uf**c**' instead of ufw. Muscle memory which resulted in some of the commands not working. I should read the error messages often.
 

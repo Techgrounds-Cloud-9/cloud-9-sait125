@@ -13,6 +13,8 @@ Plaats de architectuur die je hebt gemaakt inclusief een korte uitleg in de Gith
 
 
 ### Sources
+https://www.subnet-calculator.com/
+
 
 
 ### Overcome challenges
