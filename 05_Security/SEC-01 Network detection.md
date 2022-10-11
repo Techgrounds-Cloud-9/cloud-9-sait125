@@ -26,7 +26,7 @@ nmap scan on local machine:
 
 ![vraag1](../00_includes/SEC/SEC-01-01.png)
 
-Wireshark result when visiting reddit.com
+Wireshark result when visiting reddit.com (with filter: tcp contains reddit)
 
 ![vraag2](../00_includes/SEC/SEC-01-02.png)
 
