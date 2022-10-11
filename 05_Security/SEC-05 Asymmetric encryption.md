@@ -45,7 +45,7 @@ B = the public key which we created in the first image. This key is available an
 
 C = The encrypted output which the user filled in A. 
 
-D = the same output as C.
+D = The encrypted output (which is the decrypters input).
 
 E = The private key which shouldn't be available to others, otherwise you might aswell us the standard encryption/decryption method. 
 
