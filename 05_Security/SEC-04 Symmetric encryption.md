@@ -29,6 +29,7 @@ Find two digital ciphers that are being used today.
 
 Send a symmetrically encrypted message to one of your peers via the public Slack channel. They should be able to decrypt the message using a key you share with them. Try to think of a way to share this encryption key without revealing it to everyone. 
 
+Generate 1 key, en hiermee gwn encrypt en decrypt 1 ss toeveogen.
 
 
 
