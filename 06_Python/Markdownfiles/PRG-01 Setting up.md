@@ -6,11 +6,11 @@
 
 
 ## Python plugin
-![plugin](../00_includes/PYT/PYT-01-02.png)
+![plugin](../../00_includes/PYT/PYT-01-02.png)
 
 ## Hello World!
 ```Python
 print('Hello World!')
 ```
 
-![resultaat](../00_includes/PYT/PYT-01-01.png)
+![resultaat](../../00_includes/PYT/PYT-01-01.png)
