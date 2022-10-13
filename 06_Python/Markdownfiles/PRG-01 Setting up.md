@@ -6,7 +6,7 @@
 
 
 ## Python plugin
-![plugin](../00_includes/PYT/PYT-01-02.png)
+![plugin](../../00_includes/PYT/PYT-01-02.png)
 
 ## Hello World!
 ```Python
