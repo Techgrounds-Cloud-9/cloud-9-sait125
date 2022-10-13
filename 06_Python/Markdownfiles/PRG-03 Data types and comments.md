@@ -44,7 +44,9 @@ print(type(variable))
 ```
 ## Result
 ![vraag2](../../00_includes/PYT/PYT-03-02.png)
+
 ![vraag2](../../00_includes/PYT/PYT-03-03.png)
+
 ![vraag2](../../00_includes/PYT/PYT-03-04.png)
 
 We can see that no matter the input, the data out will always be a string.
