@@ -20,6 +20,7 @@ https://learn.microsoft.com/en-us/dotnet/framework/wcf/feature-details/how-to-vi
 
 https://devopscube.com/create-self-signed-certificates-openssl/
 
+https://betterstack.com/community/questions/how-to-list-all-available-ca-ssl-certificates-on-ubuntu/
 
 ### Overcome challenges
 What "\" is.
