@@ -1,7 +1,7 @@
-def avg(x,y):
+def avg():
     z = (x + y) / 2
     return z
-
+    
 x = 128
 y = 255
 z = avg(x,y)
