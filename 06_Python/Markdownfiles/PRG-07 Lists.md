@@ -23,13 +23,13 @@ This is almost the same as exercise *PRG-04-loops 4.1*, except we have to create
 Print the value of that item added to the value of the next item in the list. If it is the last item, add it to the value of the first item instead (since there is no next item).
 ## Code
 ```python
+list =[13, 6, 18, 25, 15]
 
+for i in range(len(list)):
+    if i == len(list)-1:
+        print (list[i] + list[0])
+    else:
+        print (list[i] + list[i+1])
 ```
 ## Result
-
-# Excercise 3
-## Code 
-```python
-
-```
-## Result
+![7.2](../../00_includes/PYT/PYT-07-01-02.png)
