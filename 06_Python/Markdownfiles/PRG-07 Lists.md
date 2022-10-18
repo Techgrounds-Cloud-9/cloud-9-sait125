@@ -26,10 +26,10 @@ Print the value of that item added to the value of the next item in the list. If
 list =[13, 6, 18, 25, 15]
 
 for i in range(len(list)):
-    if i == len(list)-1:
-        print (list[i] + list[0])
-    else:
+    if i < len(list)-1:
         print (list[i] + list[i+1])
+    else:
+        print (list[i] + list[0])
 ```
 ## Result
 ![7.2](../../00_includes/PYT/PYT-07-01-02.png)
