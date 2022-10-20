@@ -4,7 +4,7 @@ t = ["Rock", "Paper", "Scissors"] # list
 
 computer = t[randint(0,2)] # assign variable computer to random item from list "t".
 
-player = input("Rock, Paper, Scissors?")
+player = input("Rock, Paper, Scissors?") #understand how this game works
 if player == computer:
     print("Tie!")
 elif player == "Rock":
